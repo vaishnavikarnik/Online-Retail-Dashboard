@@ -55,7 +55,7 @@ This project was built to demonstrate:
 ### 1️⃣ Visuals Page  
 This page provides an overview of the key metrics, including Sales by Country and by Month, product descriptions, and overall sales performance.
 
-![Visuals Page]()
+![Visuals Page](images/visuals.png)
 
 ---
 
@@ -69,14 +69,14 @@ This tooltip appears when hovering over data points to show detailed invoice-lev
 ### 3️⃣ Drill-Through Pane  
 The drill-through feature allows users to deep-dive into a specific customer or product's transaction details, with KPIs like Avg Quantity, Total Spend, and Total Orders.
 
-![Drill-Through Pane](images/drillthrough-pane.png)
+![Drill-Through Page](images/drillthrough-page.png)
 
 ---
 
 ## 🙋‍♀️ Author
 
 **Vaishnavi Karnik**  
-[LinkedIn]() | [GitHub](https://github.com/vaishnavikarnik)
+[LinkedIn](https://www.linkedin.com/in/vaishnavi-karnik-20248b273/) | [GitHub](https://github.com/vaishnavikarnik)
 
 ---
 
